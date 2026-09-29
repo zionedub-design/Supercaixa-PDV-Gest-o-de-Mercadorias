@@ -1,0 +1,6 @@
+{
+  "name": "SuperCaixa PDV & Gestão de Mercado",
+  "description": "Sistema completo para caixa de mercado com registro de vendas, cadastro de produtos, controle de acesso por perfis e integração pronta com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
